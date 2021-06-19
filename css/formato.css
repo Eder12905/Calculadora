@@ -1,0 +1,137 @@
+body{
+	/* background-color: green; */
+	background-image: url(../imagenes/eder.jpg);
+}
+nav{
+	margin: 0 10%;
+}
+.menu li{
+	list-style: none;
+	color:#000;
+	display: inline;
+	background:#fff;
+	margin: 0 20px;
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+
+
+#encabezado{
+	
+	color:#524F44;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image:url(../imagenes/cielo.jpg);
+
+
+}
+#piepagina{
+	color:000;
+	text-align: center;
+	border-radius: 10px;
+	width: 80%;
+	margin: 30% 10% 10px;
+	height: 100px;
+	background-color: #8E44AD;
+	clear: both;
+	padding: 5px 5px 5px 5px;
+}
+#seccion1{
+	float:left;
+	width: 38%;
+	height: 350px;
+	margin: 0 0 0 10%;
+	background-color: E8E2E0;
+	padding: 10px 10px 10px 10px;
+
+}
+
+#seccion2{
+	float:right;
+	width: 38%;
+	height: 350px;
+	margin: 0 10% 0 0;
+	background-color: BCE8A6;
+	padding: 10px 10px 10px 10px;
+}
+#cancion{	
+	color:#524F44;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image:url(../imagenes/cielo.jpg);
+	
+
+}
+#imagenes{
+	color:#524F44;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image:url(../imagenes/cielo.jpg);
+}
+
+#video{
+	color:#524F44;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image:url(../imagenes/cielo.jpg);
+
+}
+#audio{
+	color:#524F44;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image:url(../imagenes/cielo.jpg);
+
+}
+#table{
+	color:#524F44;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image:url(../imagenes/cielo.jpg);
+
+}
+#mipa{
+	color:#524F44;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image:url(../imagenes/cielo.jpg);
+
+}
+#tex{
+	color:white;
+	text-align: justify;
+}
+#tex2{
+	text-align: justify;
+}
+#tex3{
+	text-align: justify;
+}
+#familia{
+		color:#524F44;
+	border-radius: 10px;
+	width: 80%;
+	margin: 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-image:url(../imagenes/cielo.jpg);
+
+}
+#tex5{
+	text-align: justify;
+	color:white;
+}
